@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tema3ex4", "tema3ex4\tema3ex4.csproj", "{DEF07809-6B54-4918-845F-27D3B29A1C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF07809-6B54-4918-845F-27D3B29A1C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF07809-6B54-4918-845F-27D3B29A1C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF07809-6B54-4918-845F-27D3B29A1C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF07809-6B54-4918-845F-27D3B29A1C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9356CE-608A-4E9C-9D3A-FBB60B858A7F}
+	EndGlobalSection
+EndGlobal
