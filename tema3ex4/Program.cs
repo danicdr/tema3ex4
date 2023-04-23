@@ -19,15 +19,15 @@ class Program
             vector[i] = int.Parse(Console.ReadLine());
         }
 
-     
+        //cel mai mare numar din vector
         int max = GetMax(vector);
         Console.WriteLine($"Cel mai mare numar din vector este: {max}");
 
-      
+        //cel mai mic numar din vector
         int min = GetMin(vector);
         Console.WriteLine($"Cel mai mic numar din vector este: {min}");
 
-      
+        //divizibile cu 3
         int[] divizibileCu3 = GetDivizibileCu3(vector);
         Console.Write("Numerele divizibile cu 3 sunt: ");
         for (int i = 0; i < divizibileCu3.Length; i++)
